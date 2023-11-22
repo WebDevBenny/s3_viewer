@@ -296,7 +296,7 @@ class S3Configurator:
 
         self.about_text.insert("end", "S3 Viewer\n\n")
         self.about_text.insert("end", "Version: 0.2\n")
-        self.about_text.insert("end", "Author: Benny Fritsch\n")
+        self.about_text.insert("end", "Author: WebDevBenny\n")
         self.about_text.insert("end", "License: MIT\n")
 
         # Center the text
